@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+# Hey there :wave:
 
-<!--
-**mprakashgithub/mprakashgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"> -->
 
-Here are some ideas to get you started:
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm Manish Prakash. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+
+I ocassionally blog and tweet about android/ios/flutter. Also open sourced few android related stuff.  
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+- Your future life savior :stuck_out_tongue: 
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
+- And of course GitHub you're already on (Recursion).
