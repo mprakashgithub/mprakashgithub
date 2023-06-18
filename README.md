@@ -1,7 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### Hey there :wave:
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" />
+</p>
+
+## Hey there :wave:
 
 <!-- <p align="center">
   Visits Badge<br>
@@ -16,11 +21,6 @@
 I'm Manish Prakash. Community is :heart:. Code blooded animal, Flutter Developer :🇮🇳: and :coffee: lover. 
 
 You can follow me for good stuff related to flutter/tech at [Medium.com](https://medium.com/@mailtomprakash1)
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" />
-</p>
 
 ## Things I am passionate about
 
