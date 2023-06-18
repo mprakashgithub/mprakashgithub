@@ -9,14 +9,19 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" />
 </p>
+<p align="center">
+  Visits Badge<br>
+  <img src="https://badges.pufler.dev/visits/mprakashgithub/mprakashgithub" />
+</p>
 
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev) -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
 
 ## About me
 
 I'm Manish Prakash. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
-I ocassionally blog and tweet about android/ios/flutter. Also open sourced few flutter (android+ios) related stuff.  
+I ocassionally write some good stuff for flutter/tech at [Medium.com](https://medium.com/@mailtomprakash1)
 
 ## Things I am passionate about
 
