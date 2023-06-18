@@ -25,5 +25,4 @@ I ocassionally blog and tweet about android/ios/flutter. Also open sourced few f
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
 - And of course GitHub you're already on (Recursion).
-- You can email at [Gmail](mailtomprakash1@gmail.com)
-- 
+- You can email me at mailtomprakash1@gmail.com
