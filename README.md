@@ -32,3 +32,4 @@ You can follow me for good stuff related to flutter/tech at [Medium.com](https:/
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
 - And of course GitHub you're already on (Recursion).
 - You can email me at mailtomprakash1@gmail.com
+- You can check my [profile](https://mprakashgithub.github.io/)
