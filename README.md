@@ -24,7 +24,7 @@ You can follow me for good stuff related to flutter/tech at [Medium.com](https:/
 
 ## Things I am passionate about
 
-- Android :robot:
+- Mobile app development (Android & iOS)
 - Open source :octocat:
 
 ## Get in touch :coffee:
