@@ -16,7 +16,7 @@
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev) -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
 
-## About me
+<!-- About me-->
 
 I'm Manish Prakash. Community is :heart:. Code blooded animal, Flutter Developer(from India) and :coffee: lover. 
 
