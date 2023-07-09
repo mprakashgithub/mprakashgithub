@@ -18,7 +18,7 @@
 
 <!-- About me-->
 
-I'm Manish Prakash. Community is :heart:. Code blooded animal, Flutter Developer(from India) and :coffee: lover. 
+I'm Manish Prakash. Community is :heart: | Flutter Developer(from India) and :coffee: lover. 
 
 You can follow me for good stuff related to flutter/tech at [Medium.com](https://medium.com/@mailtomprakash1)
 
@@ -29,7 +29,6 @@ You can follow me for good stuff related to flutter/tech at [Medium.com](https:/
 
 ## Get in touch :coffee:
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
-- And of course GitHub you're already on (Recursion).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
 - You can email me at mailtomprakash1@gmail.com
 - You can check my [profile](https://mprakashgithub.github.io/)
