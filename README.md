@@ -12,7 +12,7 @@
 <!-- <p align="center"> -->
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <!--   <a href="https://github.com/mprakashgithub/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20I'm%20Manish%20Prakash;Mobile%20App%20Developer%20:heart:Flutter:heart:%20;Experienced%20in%20Android%20And%20iOS%20;Experienced%20in%20flutter;4%2B%20years%20of%20coding%20experience;" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20I'm%20Manish%20Prakash;Mobile%20App%20Developer%20Flutter%20Dev;Experienced%20in%20Android%20And%20iOS%20;Experienced%20in%20flutter;4%2B%20years%20of%20coding%20experience;" />
 <!--   </a> -->
 <!-- </p> -->
 </div>
