@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
   <h1>Hi, I'm <span style="color:#ff6f00">Manish Prakash</span> 👋</h1>
   <p><strong>Flutter Architect | Open Source Contributor | UI/UX Perfectionist</strong></p>
- <img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer%20from%20India;4%2B%20Years%20of%20Coding%20Experience;Building%20Android%20and%20iOS%20Apps;Lover%20of%20Clean%20Architecture%20and%20Open%20Source;Always%20Learning%20New%20Things!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer%20from%20India;5%2B%20Years%20of%20Coding%20Experience;Building%20Android%20iOS%20and%20Web%20Apps;Clean%20Architecture%20and%20Open%20Source;Always%20Learning%20New%20Things!" alt="Typing SVG" />
 </div>
 
 ---
