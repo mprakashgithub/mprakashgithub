@@ -8,20 +8,10 @@
 
   <p align="center">
   Visitor Count<br>
-  <img src="https://api.countapi.xyz/hit/mprakashgithub.github.io/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=mprakashgithub&label=Visitors&color=success&style=for-the-badge" />
 </p>
   <br>
-  <p align="center">
-  Visitor Count<br>
-  <img src="https://api.countapi.xyz/update/mprakashgithub.github.io/visits/?amount=1" alt="Visitor Count" />
-</p>
-  <br>
-
-  <p align="center">
-  Visitor Count<br>
-  <img src="https://api.countapi.xyz/hit/mprakashgithub.github.io/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count" />
-</p>
-  <br>
+ 
  
 
   <i>Thanks for visiting my profile!</i>
