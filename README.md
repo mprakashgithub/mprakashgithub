@@ -6,22 +6,10 @@
 
 ---
 
-  <p align="center">
+<p align="center">
   Visitor Count<br>
   <img src="https://komarev.com/ghpvc/?username=mprakashgithub&label=Visitors&color=success&style=for-the-badge" />
-</p>
   <br>
-<p align="center">
-    Visitor Count 2<br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mprakashgithub.mprakashgithub&left_color=green&right_color=success" alt="visitor badge"/>
-</p>
-<br>
-<p align="center">
-    Visitor Count 3<br>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=mprakashgithub.mprakashgithub&left_color=green&right_color=success" alt="visitor badge"/>
-
- </p>
-
   <i>Thanks for visiting my profile!</i>
 </p>
 
