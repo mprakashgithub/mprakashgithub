@@ -9,6 +9,8 @@
 <p align="center">
  <!-- <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" alt="Visitor Count" />-->
   <br>
+  <img src="https://komarev.com/ghpvc/?username=mprakashgithub&label=Visitors&color=success&style=for-the-badge" />
+
   <p align="center">
   Visitor Count<br>
   <img src="https://api.countapi.xyz/hit/mprakashgithub.github.io/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count" />
