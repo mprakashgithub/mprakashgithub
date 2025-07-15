@@ -6,39 +6,23 @@
 
 ---
 
-<p align="center">
- <!-- <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" alt="Visitor Count" />-->
-  <br>
-<!--   ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=mprakashgithub/mprakashgithub) -->
-<!-- ![Visitors](https://visitor-counter-badge.vercel.app/api/mprakashgithub/mprakashgithub/visitor-counter-badge?label=Visits&color=green&labelColor=white&style=for-the-badge) -->
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mprakashgithub.mprakashgithub) -->
-
-  <img src="https://komarev.com/ghpvc/?username=mprakashgithub&label=Visitors&color=success&style=for-the-badge" />
-
-  <p align="center">
-  Visitor Count<br>
-  <img src="https://countrush-prod.azurewebsites.net/l/badge/?repository=mprakashgithub/mprakashgithub" alt="Visitor Count" />
-</p>
-
   <p align="center">
   Visitor Count<br>
   <img src="https://api.countapi.xyz/hit/mprakashgithub.github.io/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count" />
 </p>
-
+  <br>
+  <p align="center">
+  Visitor Count<br>
+  <img src="https://api.countapi.xyz/update/mprakashgithub.github.io/visits/?amount=1" alt="Visitor Count" />
+</p>
+  <br>
 
   <p align="center">
   Visitor Count<br>
   <img src="https://api.countapi.xyz/hit/mprakashgithub.github.io/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count" />
 </p>
   <br>
-<p align="center">Visitor Count: <span id="visits"></span></p>
-<script>
-  fetch('https://api.countapi.xyz/update/mprakashgithub.github.io/visits/?amount=1')
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById('visits').innerText = data.value;
-    });
-</script>
+ 
 
   <i>Thanks for visiting my profile!</i>
 </p>
