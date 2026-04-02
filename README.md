@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Experienced **Flutter Developer** with **5+ years** crafting robust, scalable mobile and web applications  
+- 💼 Experienced **Flutter Developer** with **5.7+ years** crafting robust, scalable mobile and web applications  
 - 📱 Specializing in **cross-platform apps** (Android, iOS & Web) using Flutter & Dart  
 - 🧠 Strong believer in **clean architecture**, **modular code**, and **test-driven development**  
 - 🔥 Passionate about building pixel-perfect UIs with smooth animations and intuitive UX  
